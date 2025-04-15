@@ -3,7 +3,7 @@
 **PlutoTV Downloader Profissional** é uma ferramenta avançada desenvolvida em Python com interface gráfica para baixar episódios e transmissões diretamente da plataforma Pluto TV.
 
 ### 🖥️ Interface Moderna e Intuitiva
-
+![PLUTOPY](https://github.com/user-attachments/assets/0565b714-865c-49d9-a0e0-d17174eb0740)
 A interface do aplicativo foi projetada com um tema escuro moderno, oferecendo uma experiência clara e agradável para o usuário:
 
 - Campo para colar a URL da **página da série**.
