@@ -1,0 +1,6 @@
+requests
+PySide6
+beautifulsoup4
+streamlink
+yt-dlp
+ffmpeg
