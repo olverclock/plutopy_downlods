@@ -1,11 +1,3 @@
-# plutopy_downlods
-📁 plutotv-downloader/
-├── pluto_downloads8.py
-├── requirements.txt
-└── README.md
-
-# README.md
-
 ## PlutoTV Downloader Profissional
 
 **PlutoTV Downloader Profissional** é uma ferramenta avançada desenvolvida em Python com interface gráfica para baixar episódios e transmissões diretamente da plataforma Pluto TV.
